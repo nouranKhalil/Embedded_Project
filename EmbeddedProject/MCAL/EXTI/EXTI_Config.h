@@ -1,0 +1,21 @@
+/*
+ * EXTI_Config.h
+ *
+ *  Created on: Aug 6, 2024
+ *      Author: Abdelrahman Nasr
+ */
+
+#ifndef MCAL_EXTI_EXTI_CONFIG_H_
+#define MCAL_EXTI_EXTI_CONFIG_H_
+
+
+/* INTERNAL_PULLUP - EXTERNAL_PULLDOWEN - EXTERNAL-PULLUP*/
+
+#define INT0_PIN_CONNECTION INTERNAL_PULLUP
+
+#define INT1_PIN_CONNECTION INTERNAL_PULLUP
+
+#define INT2_PIN_CONNECTION INTERNAL_PULLUP
+
+
+#endif /* MCAL_EXTI_EXTI_CONFIG_H_ */
