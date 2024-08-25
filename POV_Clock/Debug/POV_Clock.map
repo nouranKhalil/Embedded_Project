@@ -1,0 +1,860 @@
+Archive member included because of file (symbol)
+
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./APP/main.o (__udivmodhi4)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./HAL/KPD/KPD_program.o (__do_copy_data)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/EXTI/EXTI_Programe.o (__do_clear_bss)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./HAL/LCD/LCD_Program.o (__fixunssfsi)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./HAL/LCD/LCD_Program.o (__mulsf3)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./APP/main.o (__divsf3)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./HAL/LCD/LCD_Program.o (__gtsf2)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./HAL/LCD/LCD_Program.o (__ltsf2)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/TIM0/Timer_Program.o
+LOAD ./MCAL/GIE/GIE_Program.o
+LOAD ./MCAL/EXTI/EXTI_Programe.o
+LOAD ./MCAL/DIO/DIO_program.o
+LOAD ./HAL/LED/LED_program.o
+LOAD ./HAL/LCD/LCD_Program.o
+LOAD ./HAL/KPD/KPD_program.o
+LOAD ./APP/main.o
+LOAD c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3b5a
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_11
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_2
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/TIM0/Timer_Program.o
+ .text          0x00000092        0x0 ./MCAL/GIE/GIE_Program.o
+ .text          0x00000092        0x0 ./MCAL/EXTI/EXTI_Programe.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_program.o
+ .text          0x00000092        0x0 ./HAL/LED/LED_program.o
+ .text          0x00000092        0x0 ./HAL/LCD/LCD_Program.o
+ .text          0x00000092        0x0 ./HAL/KPD/KPD_program.o
+ .text          0x00000092        0x0 ./APP/main.o
+ .text          0x00000092        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000952        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000952      0x1aa c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000952                __pack_f
+ .text          0x00000afc       0xf0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000afc                __unpack_f
+ .text          0x00000bec       0xb2 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000bec                __fpcmp_parts_f
+                0x00000c9e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.vTIMER0_Init
+                0x00000c9e       0x2e ./MCAL/TIM0/Timer_Program.o
+                0x00000c9e                vTIMER0_Init
+ .text.vTimer0_OVF_InterruptEnable
+                0x00000ccc       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00000ccc                vTimer0_OVF_InterruptEnable
+ .text.vTimer0_OVF_InterruptDisable
+                0x00000ce8       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00000ce8                vTimer0_OVF_InterruptDisable
+ .text.vTimer0_OCM_InterruptEnable
+                0x00000d04       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00000d04                vTimer0_OCM_InterruptEnable
+ .text.vTimer0_OCM_InterruptDisable
+                0x00000d20       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00000d20                vTimer0_OCM_InterruptDisable
+ .text.vTimer0_SetPreLoad
+                0x00000d3c       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00000d3c                vTimer0_SetPreLoad
+ .text.vTimer0_SetOCRValue
+                0x00000d58       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00000d58                vTimer0_SetOCRValue
+ .text.vTimer0_SetMode
+                0x00000d74       0xce ./MCAL/TIM0/Timer_Program.o
+                0x00000d74                vTimer0_SetMode
+ .text.vTimer0_OC0_SetMode
+                0x00000e42       0xce ./MCAL/TIM0/Timer_Program.o
+                0x00000e42                vTimer0_OC0_SetMode
+ .text.vTIMER0_Start
+                0x00000f10       0x14 ./MCAL/TIM0/Timer_Program.o
+                0x00000f10                vTIMER0_Start
+ .text.vTIMER0_Stop
+                0x00000f24       0x38 ./MCAL/TIM0/Timer_Program.o
+                0x00000f24                vTIMER0_Stop
+ .text.vTimer0_PrescalerSelect
+                0x00000f5c      0x1b4 ./MCAL/TIM0/Timer_Program.o
+                0x00000f5c                vTimer0_PrescalerSelect
+ .text.vTimer1_Init
+                0x00001110       0x4c ./MCAL/TIM0/Timer_Program.o
+                0x00001110                vTimer1_Init
+ .text.vTimer1_Start
+                0x0000115c       0x14 ./MCAL/TIM0/Timer_Program.o
+                0x0000115c                vTimer1_Start
+ .text.vTimer1_Stop
+                0x00001170       0x38 ./MCAL/TIM0/Timer_Program.o
+                0x00001170                vTimer1_Stop
+ .text.vTimer1_SetMode
+                0x000011a8      0x446 ./MCAL/TIM0/Timer_Program.o
+                0x000011a8                vTimer1_SetMode
+ .text.vTimer1_OC1A_SetMode
+                0x000015ee       0xce ./MCAL/TIM0/Timer_Program.o
+                0x000015ee                vTimer1_OC1A_SetMode
+ .text.vTimer1_OC1B_SetMode
+                0x000016bc       0xce ./MCAL/TIM0/Timer_Program.o
+                0x000016bc                vTimer1_OC1B_SetMode
+ .text.vTimer1_SetPreLoad
+                0x0000178a       0x24 ./MCAL/TIM0/Timer_Program.o
+                0x0000178a                vTimer1_SetPreLoad
+ .text.vTimer1_SetOCR_A_Value
+                0x000017ae       0x24 ./MCAL/TIM0/Timer_Program.o
+                0x000017ae                vTimer1_SetOCR_A_Value
+ .text.vTimer1_SetOCR_B_Value
+                0x000017d2       0x24 ./MCAL/TIM0/Timer_Program.o
+                0x000017d2                vTimer1_SetOCR_B_Value
+ .text.vTimer1_SetICR_Value
+                0x000017f6       0x24 ./MCAL/TIM0/Timer_Program.o
+                0x000017f6                vTimer1_SetICR_Value
+ .text.vTimer1_OVF_InterruptEnable
+                0x0000181a       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x0000181a                vTimer1_OVF_InterruptEnable
+ .text.vTimer1_OVF_InterruptDisable
+                0x00001836       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001836                vTimer1_OVF_InterruptDisable
+ .text.vTimer1_OCM_A_InterruptEnable
+                0x00001852       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001852                vTimer1_OCM_A_InterruptEnable
+ .text.vTimer1_OCM_A_InterruptDisable
+                0x0000186e       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x0000186e                vTimer1_OCM_A_InterruptDisable
+ .text.vTimer1_OCM_B_InterruptEnable
+                0x0000188a       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x0000188a                vTimer1_OCM_B_InterruptEnable
+ .text.vTimer1_OCM_B_InterruptDisable
+                0x000018a6       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x000018a6                vTimer1_OCM_B_InterruptDisable
+ .text.vTimer1_PrescalerSelect
+                0x000018c2      0x144 ./MCAL/TIM0/Timer_Program.o
+                0x000018c2                vTimer1_PrescalerSelect
+ .text.vTIMER2_Init
+                0x00001a06       0x2e ./MCAL/TIM0/Timer_Program.o
+                0x00001a06                vTIMER2_Init
+ .text.vTIMER2_Start
+                0x00001a34       0x14 ./MCAL/TIM0/Timer_Program.o
+                0x00001a34                vTIMER2_Start
+ .text.vTIMER2_Stop
+                0x00001a48       0x38 ./MCAL/TIM0/Timer_Program.o
+                0x00001a48                vTIMER2_Stop
+ .text.vTimer2_SetPreLoad
+                0x00001a80       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001a80                vTimer2_SetPreLoad
+ .text.vTimer2_SetOCRValue
+                0x00001a9c       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001a9c                vTimer2_SetOCRValue
+ .text.vTimer2_SetMode
+                0x00001ab8       0xce ./MCAL/TIM0/Timer_Program.o
+                0x00001ab8                vTimer2_SetMode
+ .text.vTimer2_OC2_SetMode
+                0x00001b86       0xce ./MCAL/TIM0/Timer_Program.o
+                0x00001b86                vTimer2_OC2_SetMode
+ .text.vTimer2_OVF_InterruptEnable
+                0x00001c54       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001c54                vTimer2_OVF_InterruptEnable
+ .text.vTimer2_OVF_InterruptDisable
+                0x00001c70       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001c70                vTimer2_OVF_InterruptDisable
+ .text.vTimer2_OCM_InterruptEnable
+                0x00001c8c       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001c8c                vTimer2_OCM_InterruptEnable
+ .text.vTimer2_OCM_InterruptDisable
+                0x00001ca8       0x1c ./MCAL/TIM0/Timer_Program.o
+                0x00001ca8                vTimer2_OCM_InterruptDisable
+ .text.vTimer2_PrescalerSelect
+                0x00001cc4      0x1b4 ./MCAL/TIM0/Timer_Program.o
+                0x00001cc4                vTimer2_PrescalerSelect
+ .text.MGIE_voidEnableInterrupt
+                0x00001e78       0x1c ./MCAL/GIE/GIE_Program.o
+                0x00001e78                MGIE_voidEnableInterrupt
+ .text.MGIE_voidDisableInterrupt
+                0x00001e94       0x1c ./MCAL/GIE/GIE_Program.o
+                0x00001e94                MGIE_voidDisableInterrupt
+ .text.MEXTI_VoidInitpin
+                0x00001eb0       0x80 ./MCAL/EXTI/EXTI_Programe.o
+                0x00001eb0                MEXTI_VoidInitpin
+ .text.MEXTI_VoidTriggerEdge
+                0x00001f30      0x200 ./MCAL/EXTI/EXTI_Programe.o
+                0x00001f30                MEXTI_VoidTriggerEdge
+ .text.MEXTI_VoidEnable
+                0x00002130       0x6e ./MCAL/EXTI/EXTI_Programe.o
+                0x00002130                MEXTI_VoidEnable
+ .text.MEXTI_VoidDisable
+                0x0000219e       0x6e ./MCAL/EXTI/EXTI_Programe.o
+                0x0000219e                MEXTI_VoidDisable
+ .text.EXTI_voidINT0SetCallback
+                0x0000220c       0x24 ./MCAL/EXTI/EXTI_Programe.o
+                0x0000220c                EXTI_voidINT0SetCallback
+ .text.__vector_1
+                0x00002230       0x66 ./MCAL/EXTI/EXTI_Programe.o
+                0x00002230                __vector_1
+ .text.DIO_voidSetPinDirection
+                0x00002296      0x1e4 ./MCAL/DIO/DIO_program.o
+                0x00002296                DIO_voidSetPinDirection
+ .text.DIO_voidSetPinValue
+                0x0000247a      0x22e ./MCAL/DIO/DIO_program.o
+                0x0000247a                DIO_voidSetPinValue
+ .text.DIO_u8GetPinValue
+                0x000026a8       0xf4 ./MCAL/DIO/DIO_program.o
+                0x000026a8                DIO_u8GetPinValue
+ .text.DIO_voidSetPortSpecificDirection
+                0x0000279c       0x82 ./MCAL/DIO/DIO_program.o
+                0x0000279c                DIO_voidSetPortSpecificDirection
+ .text.DIO_voidSetPortSpecificValue
+                0x0000281e       0x82 ./MCAL/DIO/DIO_program.o
+                0x0000281e                DIO_voidSetPortSpecificValue
+ .text.LED_voidInit
+                0x000028a0       0x2c ./HAL/LED/LED_program.o
+                0x000028a0                LED_voidInit
+ .text.LED_voidTurnOn
+                0x000028cc       0x2c ./HAL/LED/LED_program.o
+                0x000028cc                LED_voidTurnOn
+ .text.LED_voidTurnOff
+                0x000028f8       0x2c ./HAL/LED/LED_program.o
+                0x000028f8                LED_voidTurnOff
+ .text.LCD_vidInit
+                0x00002924      0x680 ./HAL/LCD/LCD_Program.o
+                0x00002924                LCD_vidInit
+ .text.LCD_ClrCmd
+                0x00002fa4       0x14 ./HAL/LCD/LCD_Program.o
+                0x00002fa4                LCD_ClrCmd
+ .text.LCD_vidSendCommand
+                0x00002fb8      0x146 ./HAL/LCD/LCD_Program.o
+                0x00002fb8                LCD_vidSendCommand
+ .text.LCD_vidWriteCharctr
+                0x000030fe      0x146 ./HAL/LCD/LCD_Program.o
+                0x000030fe                LCD_vidWriteCharctr
+ .text.LCD_vidWriteString
+                0x00003244       0x52 ./HAL/LCD/LCD_Program.o
+                0x00003244                LCD_vidWriteString
+ .text.Gotoxy   0x00003296       0x56 ./HAL/LCD/LCD_Program.o
+                0x00003296                Gotoxy
+ .text.LCD_vSetCGRamAdd
+                0x000032ec       0x18 ./HAL/LCD/LCD_Program.o
+                0x000032ec                LCD_vSetCGRamAdd
+ .text.KPD_voidInit
+                0x00003304       0xae ./HAL/KPD/KPD_program.o
+                0x00003304                KPD_voidInit
+ .text.KPD_u8GetPressedKey
+                0x000033b2       0xe2 ./HAL/KPD/KPD_program.o
+                0x000033b2                KPD_u8GetPressedKey
+ .text.ISR      0x00003494       0x9a ./APP/main.o
+                0x00003494                ISR
+ .text.main     0x0000352e       0x2a ./APP/main.o
+                0x0000352e                main
+ .text.vInitClock
+                0x00003558       0x34 ./APP/main.o
+                0x00003558                vInitClock
+ .text.vClockCircumference
+                0x0000358c       0x18 ./APP/main.o
+                0x0000358c                vClockCircumference
+ .text.vClockSecondsMark
+                0x000035a4       0x18 ./APP/main.o
+                0x000035a4                vClockSecondsMark
+ .text.vClockMinutesMark
+                0x000035bc       0x22 ./APP/main.o
+                0x000035bc                vClockMinutesMark
+ .text.vClockHoursMark
+                0x000035de       0x2c ./APP/main.o
+                0x000035de                vClockHoursMark
+ .text.vSecondsHand
+                0x0000360a       0x4a ./APP/main.o
+                0x0000360a                vSecondsHand
+ .text.vMinutesHand
+                0x00003654       0x40 ./APP/main.o
+                0x00003654                vMinutesHand
+ .text.vHoursHand
+                0x00003694       0x36 ./APP/main.o
+                0x00003694                vHoursHand
+ .text.vClearLEDs
+                0x000036ca       0x2a ./APP/main.o
+                0x000036ca                vClearLEDs
+ .text.vClockDisplay
+                0x000036f4      0x3cc ./APP/main.o
+                0x000036f4                vClockDisplay
+ .text.libgcc   0x00003ac0       0x28 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00003ac0                __udivmodhi4
+ .text.libgcc   0x00003ae8        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00003ae8        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00003ae8        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003ae8       0x38 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00003ae8                __prologue_saves__
+ .text.libgcc   0x00003b20       0x36 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00003b20                __epilogue_restores__
+                0x00003b56                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003b56        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00003b56                exit
+                0x00003b56                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003b56        0x4 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003b5a                _etext = .
+
+.data           0x00800060       0x24 load address 0x00003b5a
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/TIM0/Timer_Program.o
+ .data          0x00800060        0x0 ./MCAL/GIE/GIE_Program.o
+ .data          0x00800060        0x0 ./MCAL/EXTI/EXTI_Programe.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_program.o
+ .data          0x00800060        0x0 ./HAL/LED/LED_program.o
+ .data          0x00800060        0x0 ./HAL/LCD/LCD_Program.o
+ .data          0x00800060        0x0 ./HAL/KPD/KPD_program.o
+ .data          0x00800060        0x0 ./APP/main.o
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800060        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800060        0x8 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800060                __thenan_sf
+ .data          0x00800068        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800068        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800068        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800068        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800068        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.data*)
+ .data.Local_u8KPDRowsArray.1215
+                0x00800068        0x4 ./HAL/KPD/KPD_program.o
+ .data.Local_u8KPDColumnsArray.1214
+                0x0080006c        0x4 ./HAL/KPD/KPD_program.o
+ .data.Local_u8KPDArray.1213
+                0x00800070       0x10 ./HAL/KPD/KPD_program.o
+ .data.min      0x00800080        0x2 ./APP/main.o
+                0x00800080                min
+ .data.hours    0x00800082        0x2 ./APP/main.o
+                0x00800082                hours
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800084                . = ALIGN (0x2)
+                0x00800084                _edata = .
+                0x00800084                PROVIDE (__data_end, .)
+
+.bss            0x00800084        0x4
+                0x00800084                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800084        0x0 ./MCAL/TIM0/Timer_Program.o
+ .bss           0x00800084        0x0 ./MCAL/GIE/GIE_Program.o
+ .bss           0x00800084        0x0 ./MCAL/EXTI/EXTI_Programe.o
+ .bss           0x00800084        0x0 ./MCAL/DIO/DIO_program.o
+ .bss           0x00800084        0x0 ./HAL/LED/LED_program.o
+ .bss           0x00800084        0x0 ./HAL/LCD/LCD_Program.o
+ .bss           0x00800084        0x0 ./HAL/KPD/KPD_program.o
+ .bss           0x00800084        0x0 ./APP/main.o
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800084        0x0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.bss*)
+ .bss.EXTI_pvoidINT0NotifiFunction
+                0x00800084        0x2 ./MCAL/EXTI/EXTI_Programe.o
+                0x00800084                EXTI_pvoidINT0NotifiFunction
+ .bss.sec       0x00800086        0x2 ./APP/main.o
+                0x00800086                sec
+ *(COMMON)
+                0x00800088                PROVIDE (__bss_end, .)
+                0x00003b5a                __data_load_start = LOADADDR (.data)
+                0x00003b7e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800088        0x0
+                0x00800088                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800088                PROVIDE (__noinit_end, .)
+                0x00800088                _end = .
+                0x00800088                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x375c
+ *(.stab)
+ .stab          0x00000000     0x12cc ./MCAL/TIM0/Timer_Program.o
+ .stab          0x000012cc      0x1b0 ./MCAL/GIE/GIE_Program.o
+                                0x1bc (size before relaxing)
+ .stab          0x0000147c      0x45c ./MCAL/EXTI/EXTI_Programe.o
+                                0x468 (size before relaxing)
+ .stab          0x000018d8      0x4ec ./MCAL/DIO/DIO_program.o
+                                0x4f8 (size before relaxing)
+ .stab          0x00001dc4      0x228 ./HAL/LED/LED_program.o
+                                0x234 (size before relaxing)
+ .stab          0x00001fec      0xb88 ./HAL/LCD/LCD_Program.o
+                                0xb94 (size before relaxing)
+ .stab          0x00002b74      0x390 ./HAL/KPD/KPD_program.o
+                                0x39c (size before relaxing)
+ .stab          0x00002f04      0x858 ./APP/main.o
+                                0x9f0 (size before relaxing)
+
+.stabstr        0x00000000     0x15ee
+ *(.stabstr)
+ .stabstr       0x00000000     0x15ee ./MCAL/TIM0/Timer_Program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x160
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000140       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x18f
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x1f c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000148       0x21 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000169       0x26 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x2045
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x2df c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001be4      0x251 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001e35      0x210 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1101
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x1c0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000e72      0x154 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000fc6      0x13b c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xf82
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x18a c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000d00      0x14b c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000e4b      0x137 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x180
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000140       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000160       0x20 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2c2
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0xf c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000277        0x8 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000027f        0x8 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000287        0xa c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000291       0x16 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002a7        0xb c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002b2       0x10 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x88e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654      0x13e c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000792       0xac c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000083e       0x50 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(POV_Clock.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/users/noura/onedrive/desktop/embedded/imt tools/imt_sdk_win_64/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
