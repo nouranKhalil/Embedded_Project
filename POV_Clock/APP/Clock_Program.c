@@ -23,9 +23,9 @@ void vInitClock(void){
 	DIO_voidSetPinDirection(HALL_SENSOR_PORT, HALL_SENSOR_PIN, INPUT);
 }
 
+/************************Analog Clock************************/
 void vClockCircumference(void){
 	DIO_voidSetPinValue(LEDS_PORT1, LEDS_PIN0, HIGH);
-//	DIO_voidSetPinValue(LEDS_PORT1, LEDS_PIN1, HIGH);
 }
 
 void vClockSecondsMark(void){
@@ -83,17 +83,40 @@ void vClockDisplay(u32 hours, u32 min, u32 sec){
 		if(position == min)	vMinutesHand();
 		if(position / 5 == hours) vHoursHand();
 		ticks ++;
-		position ++;
+		position ++; // update according to sensor position
 		_delay_us(280); // increase for low speed motor decrease for high speed motor
 		vClearLEDs();
 		_delay_us(1200); // increase for low speed motor decrease for high speed motor
 	}
 }
+/************************Digital Clock************************/
 
-void vPrintString(u8 ch[]){
+
+void vClockDisplayDigital(u32 hours, u32 min, u32 sec){
+	u8 time[9], i = 8;
+	time[i--] = '\0';
+	for(; i >= 6; i--){
+		time[i] = sec % 10;
+		sec /= 10;
+	}
+	time[i--] =  ':';
+	for(; i >= 3; i--){
+		time[i] = min % 10;
+		min /= 10;
+	}
+	time[i--] =  ':';
+	for(; i >= 0; i--){
+		time[i] = hours % 10;
+		hours /= 10;
+	}
+}
+
+/************************Print String************************/
+
+void vPrintString(u8 *ch){
 	u8 i = 0;
-	while(ch[i] != '\0'){
-		printLetter(ch[i]);
+	while(*(ch + i) != '\0'){
+		printLetter(*(ch + i));
 		i++;
 	}
 }

@@ -43,7 +43,8 @@ void vMinutesHand(void);
 void vHoursHand(void);
 void vClearLEDs(void);
 void vClockDisplay(u32 hours, u32 min, u32 sec);
-void vPrintHello(void);
+void vPrintString(u8 *ch);
 void printLetter(u8 ch);
+void vClockDisplayDigital(u32 hours, u32 min, u32 sec);
 
 #endif /* APP_CLOCK_INTERFACE_H_ */

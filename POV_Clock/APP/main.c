@@ -34,16 +34,36 @@ ISR(TIMER1_COMPA_vect) {
 int main(void)
 {
 	vInitClock();
-	vClockCircumference();
-	vTimer1_Init();
-	MGIE_voidEnableInterrupt();
+	/************************Analog Clock Start************************/
+//	vClockCircumference();
+//	vTimer1_Init();
+//	MGIE_voidEnableInterrupt();
+//
+//	while(1)
+//	{
+//		if(DIO_u8GetPinValue(HALL_SENSOR_PORT, HALL_SENSOR_PIN)){
+//			vClockDisplay(hours, min, sec);
+//		}
+//	}
+	/************************Analog Clock End************************/
 
-	while(1)
-	{
+	/************************Digital Clock Start************************/
+//	vTimer1_Init();
+//	MGIE_voidEnableInterrupt();
+//	while(1){
+//		if(DIO_u8GetPinValue(HALL_SENSOR_PORT, HALL_SENSOR_PIN)){
+//			vClockDisplayDigital(hours, min, sec);
+//		}
+//	}
+	/************************Digital Clock End************************/
+
+	/************************Print String Start************************/
+	while(1){
 		if(DIO_u8GetPinValue(HALL_SENSOR_PORT, HALL_SENSOR_PIN)){
-			vClockDisplay(hours, min, sec);
+			vPrintString("Hello");
 		}
 	}
+	/************************Print String End************************/
 }
 
 
